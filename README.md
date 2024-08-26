@@ -2,7 +2,7 @@
 
 This repository contains a custom-built GUI designed for controlling and managing robots using ROS2. The interface simplifies the setup for complex robots and allows users to conduct experiments effortlessly by publishing specific ROS2 topics that can be interpreted by the robot's control code for various manipulations.
 
-![main_window](https://github.com/user-attachments/assets/cc7338b4-ce81-484d-84e2-c9c009866791)
+![main_window](https://github.com/user-attachments/assets/22c95f41-e9d6-4f9d-8821-e1625805cb1b)
 
 
 ## Features
