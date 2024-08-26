@@ -2,7 +2,8 @@
 
 This repository contains a custom-built GUI designed for controlling and managing robots using ROS2. The interface simplifies the setup for complex robots and allows users to conduct experiments effortlessly by publishing specific ROS2 topics that can be interpreted by the robot's control code for various manipulations.
 
-![asset](main_window.png)
+![main_window](https://github.com/user-attachments/assets/cc7338b4-ce81-484d-84e2-c9c009866791)
+
 
 ## Features
 1. The GUI is fully integrated with ROS2 (Humble & Foxy), enabling it to publish topics directly to manage your robot's functions.
