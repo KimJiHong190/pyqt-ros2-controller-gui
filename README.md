@@ -1,4 +1,4 @@
-# ROS2 Robot Controller GUI
+# PyQt-ROS2 Robot Controller GUI
 
 This repository features a custom-built GUI designed for controlling and managing robots using ROS2. The interface simplifies the setup for complex robots and enables easy experimentation by publishing specific ROS2 topics that the robot's control code can interpret for various functions.
 
