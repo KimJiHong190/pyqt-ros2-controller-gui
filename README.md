@@ -1,17 +1,18 @@
 # ROS2 Robot Controller GUI
 
-This repository contains a custom-built GUI designed for controlling and managing robots using ROS2. The interface simplifies the setup for complex robots and allows users to conduct experiments effortlessly by publishing specific ROS2 topics that can be interpreted by the robot's control code for various manipulations.
+This repository features a custom-built GUI designed for controlling and managing robots using ROS2. The interface simplifies the setup for complex robots and enables easy experimentation by publishing specific ROS2 topics that the robot's control code can interpret for various functions.
 
 ![main_window](https://github.com/user-attachments/assets/22c95f41-e9d6-4f9d-8821-e1625805cb1b)
 
 
 ## Features
-1. The GUI is fully integrated with ROS2 (Humble & Foxy), enabling it to publish topics directly to manage your robot's functions.
-2. This repository doesn’t delve into each function within the UI, the code is structured in a way that you can easily modify the controls to suit your own purposes.
-3. The GUI provides a straightforward interface for conducting experiments with your robot, whether for research, testing, or development.
+1. The GUI is fully integrated with ROS2 (Humble & Foxy), allowing you to directly publish topics to manage your robot's functions.
+2. While this repository doesn't detail every UI function, the code is structured for easy modification. You can adapt the controls to meet your specific needs.
+3. The GUI offers a user-friendly interface for conducting experiments with your robot, whether you're focused on research, testing, or development.
 
 ## Components
 **UI_window.py:** This script creates and manages the graphical user interface (GUI) panel.
+
 **UI_controller.py:** This script accesses each button within the GUI and publishes the corresponding topic messages using ROS2.
 
 ## Installation
